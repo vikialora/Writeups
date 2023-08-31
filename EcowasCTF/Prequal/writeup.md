@@ -567,7 +567,7 @@ And before it does that check it sets our cookie to `guest` making the if
 
 check returns false
 
-There are two ways we can just solve this (at least I taught of this lol):
+There are two ways we can just solve this (at least I thought of this lol):
 - Execute that javascript that will be ran if the check returns true
 - Set our cookie name to `premium`
 
